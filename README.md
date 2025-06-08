@@ -7,7 +7,8 @@
 </p>
 
 <a href="https://www.linkedin.com/in/edwardjxchen/" >
-<img height="50" src=![5296501_linkedin_network_linkedin logo_icon](https://github.com/user-attachments/assets/4035377f-65b1-44e6-841e-6fa6aaf6b16c)>
+<img src="https://github.com/user-attachments/assets/4035377f-65b1-44e6-841e-6fa6aaf6b16c/5296501_linkedin_network_linkedin logo_icon" height="50">
+
 
 
 <!--
