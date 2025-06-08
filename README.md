@@ -16,7 +16,6 @@
   
 
 
-![Animated GIF](./assets/CAT2.gif)
 
 
 <p align="center">
