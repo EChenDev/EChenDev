@@ -19,8 +19,9 @@
 ![Animated GIF](./assets/CAT2.gif)
 
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/mcsPU3SkKrYDdW3aAU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cat-computer-mcsPU3SkKrYDdW3aAU">via GIPHY</a></p>
-
+<p align="center">
+  <img src="./assets/CAT2.gif" alt="Animated GIF" width="400" />
+</p>
 
 
 
