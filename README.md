@@ -20,9 +20,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/192114028-5fa158b0-d942-4ca7-8b46-d221d3b9a42e.gif" width="250" />
 
+<img src="./Dog.gif"/>
 
-
-![Dog](https://github.com/user-attachments/assets/b0565cd8-15ef-4c76-82ec-7095633c81be)
+![Dog](https:1//github.com/user-attachments/assets/b0565cd8-15ef-4c76-82ec-7095633c81be)
 
 
 
