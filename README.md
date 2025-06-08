@@ -15,11 +15,11 @@
 <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" height="50">
 
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAd/cat-computer.gif" width="250" />
-  <img src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAd/java-programming.gif" width="250" />
-  <img src="https://media1.tenor.com/m/rtBWbeSKvaMAAAAd/coding-hacker.gif" width="250" />
-</div>
+
+<img src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAd/cat-computer.gif" width="250" />
+<img src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAd/java-programming.gif" width="250" />
+<img src="https://media1.tenor.com/m/rtBWbeSKvaMAAAAd/coding-hacker.gif" width="250" />
+
 
 
 
