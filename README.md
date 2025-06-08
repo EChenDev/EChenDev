@@ -15,7 +15,7 @@
 <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" height="50">
 
 
-<img src="https://gifdb.com/images/high/computer-programming-html-coding-ygk3aq1mwnfu4360.webp" width="800">
+<img src="" width="800">
 
 
 
