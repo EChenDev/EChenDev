@@ -22,7 +22,7 @@
 
 <img src="./Dog.gif"/>
 
-![Dog](https:1//github.com/user-attachments/assets/b0565cd8-15ef-4c76-82ec-7095633c81be)
+![Dog](https:1//github.com/user-attachments/assets/b0565cd8-15ef-4c76-82ec-7095633c81be/Dog.gif)
 
 
 
