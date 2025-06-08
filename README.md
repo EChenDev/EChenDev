@@ -13,6 +13,12 @@
 
 <a href="https://www.linkedin.com/in/edwardjxchen/" >
 <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" height="50">
+  
+![Computer](https://github.com/user-attachments/assets/49ab5d37-2d99-4db9-ae05-bedbcec6e4bf)
+
+![Dog](https://github.com/user-attachments/assets/71505813-565e-4fab-968b-f308494eae82)
+
+![CAT](https://github.com/user-attachments/assets/e5f22fc0-6ee7-4307-ad17-ea7e64c50495)
 
 
 
