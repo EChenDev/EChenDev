@@ -8,7 +8,7 @@
 
 💻 Full Stack Software Engineer
 ---
----
+
 
 
 <a href="https://www.linkedin.com/in/edwardjxchen/" >
