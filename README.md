@@ -16,9 +16,8 @@
   
 
 
-<p align="center">
-  <img src="./assets/CAT2.gif" alt="Funny GIF" width="400">
-</p>
+![Animated GIF](./assets/CAT2.gif)
+
 
 
 
