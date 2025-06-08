@@ -14,17 +14,13 @@
 <a href="https://www.linkedin.com/in/edwardjxchen/" >
 <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" height="50">
   
-![Computer](https://github.com/user-attachments/assets/49ab5d37-2d99-4db9-ae05-bedbcec6e4bf)
+![Computer](./assets/Computer.gif)
 
-![Dog](https://github.com/user-attachments/assets/71505813-565e-4fab-968b-f308494eae82)
+![Dog](./assets/Dog.gif)
 
-![CAT](https://github.com/user-attachments/assets/e5f22fc0-6ee7-4307-ad17-ea7e64c50495)
+![CAT](./assets/CAT.gif)
 
 
-
-<img src="https://github.com/user-attachments/assets/460aa021-d21c-4705-bd59-09111f1a4c70" width="250" />
-<img src="https://github.com/user-attachments/assets/8ef2dcf1-02af-4834-9be9-e8fd6dcb436a" width="250" />
-<img src="https://github.com/user-attachments/assets/c8c6d966-03bd-47f7-a08f-47689246c020" width="250" />
 
 
 
