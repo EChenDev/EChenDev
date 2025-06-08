@@ -16,7 +16,9 @@
   
 
 
-<img src="https://media.giphy.com/media/mcsPU3SkKrYDdW3aAU/giphy.gif" alt="Giphy GIF" width="400">
+<p align="center">
+  <img src="./assets/CAT.gif" alt="Funny GIF" width="400">
+</p>
 
 
 
