@@ -5,6 +5,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello!&fontSize=90" />
   
 </p>
+
+<a href="https://www.linkedin.com/in/edwardjxchen/" >
+<img height="50" src=![5296501_linkedin_network_linkedin logo_icon](https://github.com/user-attachments/assets/4035377f-65b1-44e6-841e-6fa6aaf6b16c)>
+
+
 <!--
 **EddieC97/EddieC97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
