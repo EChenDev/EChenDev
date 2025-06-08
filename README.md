@@ -14,12 +14,9 @@
 <a href="https://www.linkedin.com/in/edwardjxchen/" >
 <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" height="50">
   
-![Computer](./assets/Computer.gif)
-
-![Dog](./assets/Dog.gif)
-
-![CAT](./assets/CAT.gif)
-
+<img src="./assets/cat.gif" width="250" />
+<img src="./assets/dog.gif" width="250" />
+<img src="./assets/computer.gif" width="250" />
 
 
 
