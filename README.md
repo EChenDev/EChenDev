@@ -26,6 +26,9 @@
   <img src="https://media1.tenor.com/m/rtBWbeSKvaMAAAAC/coding-hacker.webp" alt="Animated GIF" width="400" />
 </p>
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.webp" alt="Animated GIF" width="400" />
+</p>
 
 
 
