@@ -20,18 +20,10 @@
 
 ## 🔥 What It *Actually* Is
 
-<div align="center">
-  <div style="display: inline-block; margin: 0 10px;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ2bDRyY2xrM2Flc2ZlMGVkc2Njc2V0eHhxd3J5NXJ3aTh0YWQzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.webp"  width="400" height="400" style="display: block;" />
-  </div>
-  <div style="display: inline-block; margin: 0 10px;">
-    <img src="https://media1.tenor.com/m/rtBWbeSKvaMAAAAC/coding-hacker.webp" width="400" height="400" style="display: block;" />
-  </div>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ2bDRyY2xrM2Flc2ZlMGVkc2Njc2V0eHhxd3J5NXJ3aTh0YWQzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.webp" width="400" height="400" alt="Debugging Mayhem" />
+  <img src="https://media1.tenor.com/m/rtBWbeSKvaMAAAAC/coding-hacker.webp" width="400" height="400" alt="Hacker Mode" />
 </div>
-
-
-
-
 
 
 # 🚀 About Me: What I Do & Where I’m Headed
