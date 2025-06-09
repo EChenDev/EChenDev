@@ -20,16 +20,17 @@
 
 ## 🔥 What It *Actually* Is
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ2bDRyY2xrM2Flc2ZlMGVkc2Njc2V0eHhxd3J5NXJ3aTh0YWQzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.webp" alt="Reality: Debugging Mayhem" width="400" />
-    </td>
-    <td align="center">
-      <img src="https://media1.tenor.com/m/rtBWbeSKvaMAAAAC/coding-hacker.webp" alt="Reality: Hacker Mode" width="400" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div style="display: inline-block; margin: 0 10px;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ2bDRyY2xrM2Flc2ZlMGVkc2Njc2V0eHhxd3J5NXJ3aTh0YWQzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.webp"  width="500" height="500" style="display: block;" />
+  </div>
+  <div style="display: inline-block; margin: 0 10px;">
+    <img src="https://media1.tenor.com/m/rtBWbeSKvaMAAAAC/coding-hacker.webp" width="500" height="500" style="display: block;" />
+  </div>
+</div>
+
+
+
 
 
 
