@@ -78,4 +78,13 @@
 ```
 
 ## ⚙️ Tools & Technologies I've Worked With
-<img src="https://www.iconfinder.com/icons/4373213/js_logo_logos_icon" />
+
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-256.png" alt="JavaScript" width="50" height="50" />
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" width="50" height="50" />
+<img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" alt="React" width="50" height="50" />
+<img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Django" width="50" height="50" />
+<img src="https://images.icon-icons.com/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="50" height="50" />
+<img src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699099-icon-24-file-sql-64.png" alt="SQL" width="50" height="50" />
+<img src="https://cdn4.iconfinder.com/data/icons/orange-social-icons/484/html_5.png" alt="HTML5" width="50" height="50" />
+<img src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/css-64.png" alt="CSS3" width="50" height="50" />
+<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Github-64.png" alt="GitHub" width="50" height="50" />
