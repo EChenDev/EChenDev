@@ -23,3 +23,38 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/OKMiJjqXkMcAAAAC/java-programming.webp" alt="Java Programming GIF" width="400" />
 </p>
+
+# 🚀 About Me: What I Do & Where I’m Headed
+---
+
+```json
+{
+  "name": "Edward Chen",
+  "location": "Sydney, Australia",
+  "education": [
+    "Full-Stack Software Engineering – General Assembly",
+    "Bachelor of Vision Science (with Distinction)",
+    "Master of Optometry (with Distinction)"
+  ],
+  "fields_of_interest": [
+    "Web Development",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Cloud Computing"
+  ],
+  "technical_background": [
+    "Full-Stack Software Engineering Graduate – General Assembly",
+    "Hands-on experience with modern web technologies (HTML, CSS, JavaScript, React, Node.js)",
+    "Project-based learning using Agile methodologies and Git version control"
+  ],
+  "currently_learning": [
+    "Python for Software Development and AI",
+    "Algorithms and Data Structures",
+    "Computer Science Fundamentals"
+  ],
+  "hobbies": [
+    "Reading (Currently: Clean Code by Robert C. Martin; Favorite: So Good They Can’t Ignore You by Cal Newport)",
+    "Fitness Training (Gym 3x/week to enhance mental focus and physical strength – favorite exercise: cable bicep curls)"
+  ]
+}
+
