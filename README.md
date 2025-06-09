@@ -4,7 +4,7 @@
 
 <h2 align="center">💻 Full Stack Software Engineer</h2>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/edwardjxchen/" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" height="50" alt="LinkedIn" />
   </a>
