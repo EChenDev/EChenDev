@@ -28,34 +28,48 @@
 ---
 
 ```json
+
 {
   "name": "Edward Chen",
+
   "location": "Sydney, Australia",
+  
   "education": [
     "Full-Stack Software Engineering – General Assembly",
-    "Bachelor of Vision Science (with Distinction)",
-    "Master of Optometry (with Distinction)"
+    "Master of Optometry (with Distinction)",
+    "Bachelor of Vision Science (with Distinction)"
   ],
+
+  "technical_background": {
+    "certification": "Graduate – Full-Stack Software Engineering, General Assembly",
+    "technologies": ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+    "practices": ["Agile methodologies", "Git version control", "Project-based learning"]
+  },
+
+  "currently_learning": [
+    "Python for Software Development and AI",
+    "Algorithms and Data Structures",
+    "Computer Science Fundamentals"
+  ],
+
   "fields_of_interest": [
     "Web Development",
     "Artificial Intelligence",
     "Machine Learning",
     "Cloud Computing"
   ],
-  "technical_background": [
-    "Full-Stack Software Engineering Graduate – General Assembly",
-    "Hands-on experience with modern web technologies (HTML, CSS, JavaScript, React, Node.js)",
-    "Project-based learning using Agile methodologies and Git version control"
-  ],
-  "currently_learning": [
-    "Python for Software Development and AI",
-    "Algorithms and Data Structures",
-    "Computer Science Fundamentals"
-  ],
-  "hobbies": [
-    "Reading (Currently: Clean Code by Robert C. Martin; Favorite: So Good They Can’t Ignore You by Cal Newport)",
-    "Fitness: gym workouts 3x/week; favorite exercise: cable bicep curls"
-    "Foodie: love trying out different restaurants and cuisines"
-  ]
+
+  "hobbies": {
+    "reading": {
+      "currently": "Clean Code by Robert C. Martin",
+      "favorite": "So Good They Can’t Ignore You by Cal Newport"
+    },
+    "fitness": {
+      "routine": "Gym workouts 3x/week",
+      "favorite_exercise": "Cable bicep curls"
+    },
+    "foodie": "Love trying out different restaurants and cuisines"
+  }
 }
+
 
