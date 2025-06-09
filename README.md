@@ -41,10 +41,14 @@
   ],
 
   "technical_background": {
-    "certification": "Graduate – Full-Stack Software Engineering, General Assembly",
-    "technologies": ["HTML", "CSS", "JavaScript", "React", "Node.js"],
-    "practices": ["Agile methodologies", "Git version control", "Project-based learning"]
-  },
+  "certification": "Full-Stack Software Engineering – General Assembly",
+  "experience": [
+    "Developed and deployed full-stack web applications",
+    "Worked in Agile teams using Scrum methodology",
+    "Used Git and GitHub for version control and collaboration",
+    "Applied pair programming and conducted code reviews"
+  ]
+  }
 
   "currently_learning": [
     "Python for Software Development and AI",
@@ -71,5 +75,7 @@
     "foodie": "Love trying out different restaurants and cuisines"
   }
 }
+```
 
-
+## ⚙️ Tools & Technologies I've Worked With
+<img src="https://www.iconfinder.com/icons/4373213/js_logo_logos_icon" />
