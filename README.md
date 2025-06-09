@@ -54,7 +54,8 @@
   ],
   "hobbies": [
     "Reading (Currently: Clean Code by Robert C. Martin; Favorite: So Good They Can’t Ignore You by Cal Newport)",
-    "Fitness Training (Gym 3x/week to enhance mental focus and physical strength – favorite exercise: cable bicep curls)"
+    "Fitness: gym workouts 3x/week; favorite exercise: cable bicep curls"
+    "Foodie: love trying out different restaurants and cuisines"
   ]
 }
 
