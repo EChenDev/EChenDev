@@ -88,4 +88,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EChenDev&size_weight=1.0&count_weight=0.5&hide=CSS,HTML,shell,EJS&card_width=500)
 
-![Snake animation](https://github.com/EChenDev/EChenDev/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  ![Snake animation](https://github.com/EChenDev/EChenDev/blob/output/github-contribution-grid-snake.svg)
+</div>
