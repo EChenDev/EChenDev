@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello!&fontSize=90" />
 </p>
 
-<h2 align="center">💻 Full Stack Software Engineer</h2>
+<h2 align="center">👋 I'm Eddie – an aspiring Full Stack Software Engineer</h2>
+
+
 
 <p>
   <a href="https://www.linkedin.com/in/edwardjxchen/" target="_blank">
@@ -11,6 +13,7 @@
 </p>
 
 ---
+
 
 ## 🤩 What I *Thought* Software Engineering Would Be
 
