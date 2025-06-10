@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello!&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello!&fontSize=90" />
 </p>
 
 <h2 align="center">💻 Full Stack Software Engineer</h2>
@@ -92,6 +92,10 @@
 ## 🐍 My GitHub Contribution Snake
 
 ![snake gif](https://github.com/EChenDev/EChenDev/blob/output/github-snake.svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=footer" />
+</p>
 
 
 
