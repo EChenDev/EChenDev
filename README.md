@@ -20,10 +20,12 @@
 
 ## 🔥 What It *Actually* Is
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ2bDRyY2xrM2Flc2ZlMGVkc2Njc2V0eHhxd3J5NXJ3aTh0YWQzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.webp" width="500" height="500"  />
-  <img src="https://media1.tenor.com/m/rtBWbeSKvaMAAAAC/coding-hacker.webp" width="500" height="500" />
-</div>
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ2bDRyY2xrM2Flc2ZlMGVkc2Njc2V0eHhxd3J5NXJ3aTh0YWQzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.webp" height="600" width="48%" />
+  <img src="https://media1.tenor.com/m/rtBWbeSKvaMAAAAC/coding-hacker.webp" height="600" width="48%" />
+</p>
+
+
 
 
 # 🚀 About Me: What I Do & Where I’m Headed
